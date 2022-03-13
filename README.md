@@ -4,4 +4,4 @@
 ![imc2](https://user-images.githubusercontent.com/85905322/158062507-cdf260ad-3966-4f1b-bf48-fd4ea0046524.png)
 
 # Tecnologias Usadas
-Esse projeto foi feito inteiramente com React JS, foi otimo para fixar alguns conceitos como useState!
+Esse projeto foi feito inteiramente com React JS, foi otimo para fixar alguns conceitos do framework, como o useState!
