@@ -1,0 +1,57 @@
+.app{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #fffbf0;
+}
+
+h1{
+    font-size: 50px;
+}
+
+span{
+    margin: 12px 0;
+}
+
+.area-input{
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.area-input input{
+    width: 100%;
+    margin-bottom: 12px;
+    height: 46px;
+    background-color: #121212;
+    border: 0;
+    border-radius: 6px;
+    color: rgb(207, 232, 253);
+    padding: 0 12px ;
+    text-align: center;
+    font-size: 18px;
+   
+}
+
+.area-input button{
+    width: 70%;
+    height: 46px;
+    font-size: 18px;
+    background-color: #3e4b7c;
+    color: rgb(207, 232, 253);
+    border-radius: 6px;
+    border: 0;
+}
+
+::-webkit-input-placeholder {
+    color: rgb(175, 200, 221);
+ }
+
+ h2{
+     margin-top: 16px;
+ }
+ 
